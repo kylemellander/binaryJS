@@ -26,5 +26,4 @@ function trinary(number) {
 
 function numberConverter(number, arg) {
   return number.toString(arg);
-  alert("KYLE IS DUMB");
 }
